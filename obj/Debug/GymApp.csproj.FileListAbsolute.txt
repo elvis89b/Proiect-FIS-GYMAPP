@@ -1,0 +1,37 @@
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\bin\Debug\GymApp.exe.config
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\bin\Debug\GymApp.exe
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\bin\Debug\GymApp.pdb
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\bin\Debug\Guna.UI.dll
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.csproj.AssemblyReference.cache
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.Login.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.MainForm.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.Properties.Resources.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.csproj.GenerateResource.cache
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.csproj.CopyComplete
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.exe
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.pdb
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.AddMember.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.UpdateDelete.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.Payment.resources
+C:\Users\elvis\Desktop\PROIECT FIS\GymApp\obj\Debug\GymApp.ViewMembers.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\bin\Debug\GymApp.exe.config
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\bin\Debug\GymApp.exe
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\bin\Debug\GymApp.pdb
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.csproj.AssemblyReference.cache
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.AddMember.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.Login.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.MainForm.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.Payment.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.Properties.Resources.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.UpdateDelete.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.ViewMembers.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.csproj.GenerateResource.cache
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.csproj.CoreCompileInputs.cache
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.csproj.CopyComplete
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.exe
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.pdb
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.ClientPage.resources
+C:\Users\elvis\Desktop\FIS\Proiect-FIS\GymApp\obj\Debug\GymApp.Vestiar.resources
